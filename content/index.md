@@ -1,9 +1,17 @@
-# Nuxt Content
+## Leistungen
 
-This page corresponds to the `/` route of your website. You can delete it or create another file in the `content/` directory.
+Hier ein kurzer Überblick über die wesentlichen Leistungen
 
-Try to navigate to [/about](/about). These 2 pages are rendered by the `pages/[...slug].vue` component.
+- Finanzbuchhaltung
+- Lohnabrechnungen
+- Abschlusserstellung
+- Steuererklärungen
+- Lohnsteuerhilfe
+- Steuergestaltungsberatung
+- Wirtschaftsberatung
 
----
+## Kontaktieren Sie mich
 
-Look at the [Content documentation](https://content.nuxtjs.org/) to learn more.
+Tel.: [0151-67520461](tel:0151-67520461)
+
+E-Mail: [info@frohn-steuerberater.de](mailto:info@frohn-steuerberater.de)

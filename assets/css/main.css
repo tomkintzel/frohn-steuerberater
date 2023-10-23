@@ -1,0 +1,22 @@
+@font-face {
+	font-family: 'Inter';
+	font-style: normal;
+	font-weight: 400;
+	font-display: swap;
+	src: url('~assets/fonts/Inter-Regular.ttf') format('truetype');
+  }
+
+
+body {
+	font-family: 'Inter', sans-serif;
+}
+a {
+	text-decoration: none;
+	color: #0c0c0c;
+}
+
+.main {
+	max-width: 1300px;
+	margin: 0 auto;
+
+}
