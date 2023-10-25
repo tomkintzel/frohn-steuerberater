@@ -12,6 +12,6 @@ footer {
 	justify-content: center;
 	border-top: 1px solid #cfcfcf;
 	column-gap: 2rem;
-	padding-top: 1rem;
+	padding: 1rem 0;
 }
 </style>
