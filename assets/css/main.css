@@ -15,6 +15,10 @@
 	--max-width: 1300px;
 }
 
+* {
+	box-sizing: border-box;
+}
+
 html {
 	font-family: "Inter";
 	scroll-behavior: smooth;
@@ -31,9 +35,17 @@ h1,h2,h3,h4,h5,h6 {
 	color: var(--black);
 }
 
+h2 a{
+	color: var(--black);
+}
+
 a {
 	text-decoration: none;
 	color: var(--blue);
+}
+
+a:hover {
+	opacity: 0.9;
 }
 
 .main {
@@ -51,3 +63,8 @@ li {
 	margin-bottom: .5rem;
 }
 
+img {
+	display: block;
+	max-width: 100%;
+	height: auto;
+}

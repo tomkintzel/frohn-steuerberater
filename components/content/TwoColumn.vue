@@ -20,12 +20,23 @@
 	order: 1;
 }
 
+.two-column img {
+	max-height: 40vh;
+	width: 100%;
+	object-fit: cover;
+}
+
+.two-column .right p {
+	margin: 0;
+	padding: 0;
+}
+
 .two-column .left{
 	padding: 2rem 1rem;
 	display:flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: var(--blue);
+	background-color: var(--black);
 	color: var(--white);
 }
 
@@ -40,6 +51,10 @@
 	}
 	.two-column .left {
 		padding: 2rem;
+	}
+
+	.two-column .right img {
+		max-height: 75vh;
 	}
 }
 </style>

@@ -21,7 +21,7 @@ Hier ein kurzer Überblick über die wesentlichen Leistungen
 - Wirtschaftsberatung
 
 #right
-test
+![Steuerberater](/tax-accountant.jpg)
 ::
 
 
