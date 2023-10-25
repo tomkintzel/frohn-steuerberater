@@ -12,14 +12,6 @@ Ihre individuelle Lösung für Finanzfragen.
 ## Leistungen
 Hier ein kurzer Überblick über die wesentlichen Leistungen
 
-- Finanzbuchhaltung
-- Lohnabrechnungen
-- Abschlusserstellung
-- Steuererklärungen
-- Lohnsteuerhilfe
-- Steuergestaltungsberatung
-- Wirtschaftsberatung
-
 #right
 ![Steuerberater](/tax-accountant.jpg)
 ::
@@ -35,7 +27,9 @@ Tel.: [0151-67520461](tel:0151-67520461)
 E-Mail: [info@frohn-steuerberater.de](mailto:info@frohn-steuerberater.de)
 
 #address
-Adresse: Waldstr. 157
+Adresse:
+
+Waldstr. 157
 51147 Köln
 ::
 
