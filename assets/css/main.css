@@ -67,3 +67,9 @@ img {
 	max-width: 100%;
 	height: auto;
 }
+
+[data-content-id="content:impressum.md"] {
+	max-width: 1300px;
+	margin: 0 auto;
+	padding: 1rem;
+}
