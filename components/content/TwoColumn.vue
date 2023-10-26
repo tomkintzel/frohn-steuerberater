@@ -1,16 +1,18 @@
 <template>
 	<div class="two-column">
 		<div class="left">
-			<slot />
-			<ul>
-				<li><div class="i-carbon:arrow-right"></div> Finanzbuchhaltung</li>
-				<li><div class="i-carbon:arrow-right"></div> Lohnabrechnungen</li>
-				<li><div class="i-carbon:arrow-right"></div> Abschlusserstellung</li>
-				<li><div class="i-carbon:arrow-right"></div> Steuererklärungen</li>
-				<li><div class="i-carbon:arrow-right"></div> Lohnsteuerhilfe</li>
-				<li><div class="i-carbon:arrow-right"></div> Steuergestaltungsberatung</li>
-				<li><div class="i-carbon:arrow-right"></div> Wirtschaftsberatung</li>
-			</ul>
+			<div class="left-content">
+				<slot />
+				<ul>
+					<li><div class="i-carbon:arrow-right"></div> Finanzbuchhaltung</li>
+					<li><div class="i-carbon:arrow-right"></div> Lohnabrechnungen</li>
+					<li><div class="i-carbon:arrow-right"></div> Abschlusserstellung</li>
+					<li><div class="i-carbon:arrow-right"></div> Steuererklärungen</li>
+					<li><div class="i-carbon:arrow-right"></div> Lohnsteuerhilfe</li>
+					<li><div class="i-carbon:arrow-right"></div> Steuergestaltungsberatung</li>
+					<li><div class="i-carbon:arrow-right"></div> Wirtschaftsberatung</li>
+				</ul>
+			</div>
 		</div>
 		<div class="right">
 			<slot name="right" />
@@ -60,6 +62,8 @@
 	}
 	.two-column .left {
 		padding: 2rem;
+		display: grid;
+		place-items: center;
 	}
 
 	.two-column .right img {

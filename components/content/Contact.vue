@@ -23,8 +23,10 @@
 </template>
 
 <style>
-.contact {
+.contact-container {
 	background-color: var(--gray);
+}
+.contact {
 	padding: 3rem 1rem;
 	max-width: var(--max-width);
 	margin: 0 auto;
