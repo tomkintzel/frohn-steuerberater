@@ -1,7 +1,7 @@
 <template>
 	<footer>
 		<NuxtLink to="/impressum">Impressum</NuxtLink>
-		<NuxtLink to="/datenschutzerklaerung">Datenschutz</NuxtLink>
+		<NuxtLink to="/datenschutz">Datenschutz</NuxtLink>
 	</footer>
 </template>
 

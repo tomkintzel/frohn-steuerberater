@@ -68,8 +68,13 @@ img {
 	height: auto;
 }
 
-[data-content-id="content:impressum.md"] {
+[data-content-id="content:impressum.md"], [data-content-id="content:datenschutz.md"] {
 	max-width: 1300px;
 	margin: 0 auto;
 	padding: 1rem;
+}
+[data-content-id="content:impressum.md"] h2 a, [data-content-id="content:datenschutz.md"] h2 a,
+[data-content-id="content:impressum.md"] h3 a, [data-content-id="content:datenschutz.md"] h3 a,
+[data-content-id="content:impressum.md"] h4 a, [data-content-id="content:datenschutz.md"] h4 a {
+	color: var(--black);
 }
