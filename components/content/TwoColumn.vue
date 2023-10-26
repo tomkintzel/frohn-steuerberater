@@ -5,12 +5,11 @@
 				<slot />
 				<ul>
 					<li><div class="i-carbon:arrow-right"></div> Finanzbuchhaltung</li>
-					<li><div class="i-carbon:arrow-right"></div> Lohnabrechnungen</li>
 					<li><div class="i-carbon:arrow-right"></div> Abschlusserstellung</li>
 					<li><div class="i-carbon:arrow-right"></div> Steuererklärungen</li>
 					<li><div class="i-carbon:arrow-right"></div> Lohnsteuerhilfe</li>
 					<li><div class="i-carbon:arrow-right"></div> Steuergestaltungsberatung</li>
-					<li><div class="i-carbon:arrow-right"></div> Wirtschaftsberatung</li>
+					<li><div class="i-carbon:arrow-right"></div> Steuerliche Beratung</li> 
 				</ul>
 			</div>
 		</div>
