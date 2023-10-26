@@ -1,6 +1,6 @@
 ---
 title: 'Marcel Frohn - Steuerberater aus Köln Porz'
-description: 'Test'
+description: 'Marcel Frohn - Ihr Steuerberater in Köln. Kompetente Steuerberatung und maßgeschneiderte Lösungen für Unternehmen und Privatpersonen. Vereinbaren Sie jetzt einen Termin für Ihre finanzielle Sicherheit!'
 ---
 
 ::hero
