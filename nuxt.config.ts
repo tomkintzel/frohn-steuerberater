@@ -4,7 +4,8 @@ export default defineNuxtConfig({
   modules: [
     '@nuxt/content',
     '@unocss/nuxt',
-    ['@nuxtjs/robots', {rules:{UserAgent: '*', Disallow: ''}}]
+    ['@nuxtjs/robots', {rules:{UserAgent: '*', Disallow: ''}}],
+    '@nuxt/image'
     
   ],
   css: ['~/assets/css/main.css'],

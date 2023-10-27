@@ -14,7 +14,8 @@
 			</div>
 		</div>
 		<div class="right">
-			<slot name="right" />
+			<NuxtImg src="/tax-accountant.jpg" />
+			<!-- <slot name="right" /> -->
 		</div>
 	</div>
 </template>

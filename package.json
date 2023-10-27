@@ -16,6 +16,7 @@
     "unocss": "^0.57.1"
   },
   "dependencies": {
+    "@nuxt/image": "^1.0.0",
     "@nuxtjs/robots": "^3.0.0"
   }
 }
