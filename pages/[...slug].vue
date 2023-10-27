@@ -1,7 +1,6 @@
 <script setup>
 const route = useRoute()
 let canPath = route.path.length > 1 ? route.path : ''
-console.log(route.name)
 useHead({
   link: [
     {
