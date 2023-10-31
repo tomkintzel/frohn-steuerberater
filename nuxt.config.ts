@@ -6,13 +6,14 @@ export default defineNuxtConfig({
     '@unocss/nuxt',
     ['@nuxtjs/robots', {rules:{UserAgent: '*', Disallow: ''}}],
     '@nuxt/image',
-    '@nuxtjs/sitemap',
-    
+    'nuxt-simple-sitemap'
   ],
-  sitemap: {
-    hostname: 'https://www.frohn-steuerberate.de',
-    gzip: true,
-    routes: ['/', '/datenschutz', '/impressum']
+  content: {
+    documentDriven: true
+  },
+  site: {
+    url: "https://www.frohn-steuerberater.de",
+    strictNuxtContentPaths: true
   },
   css: ['~/assets/css/main.css'],
   app: {

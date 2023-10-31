@@ -13,11 +13,11 @@
     "@unocss/nuxt": "^0.57.1",
     "@unocss/preset-icons": "^0.57.1",
     "nuxt": "^3.8.0",
+    "nuxt-simple-sitemap": "^3.4.1",
     "unocss": "^0.57.1"
   },
   "dependencies": {
     "@nuxt/image": "^1.0.0",
-    "@nuxtjs/robots": "^3.0.0",
-    "@nuxtjs/sitemap": "^2.4.0"
+    "@nuxtjs/robots": "^3.0.0"
   }
 }
