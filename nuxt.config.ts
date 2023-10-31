@@ -3,6 +3,7 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   modules: [
     '@nuxt/content',
+    '@nuxtjs/sitemap',
     '@unocss/nuxt',
     ['@nuxtjs/robots', {rules:{UserAgent: '*', Disallow: ''}}],
     '@nuxt/image'
