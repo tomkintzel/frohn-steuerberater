@@ -29,7 +29,7 @@ E-Mail: [info@frohn-steuerberater.de](mailto:info@frohn-steuerberater.de)
 #address
 Adresse:
 
-Waldstr. 157
+Magazinstr. 58
 51147 Köln
 ::
 
