@@ -4,14 +4,14 @@ Marcel Frohn
 
 Marcel Frohn Steuerberater
 
-Waldstraße 157
+Magazinstraße 58
 
 51147 Köln
 ## Kontakt
 
 Telefon: 015167520461
 
-E-Mail: Info@frohn-steuerberater.de
+E-Mail: info@frohn-steuerberater.de
 
 ## Berufsbezeichnung und berufsrechtliche Regelungen
 Berufsbezeichnung: Steuerberater
