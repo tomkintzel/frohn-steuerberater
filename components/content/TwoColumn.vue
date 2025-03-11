@@ -47,7 +47,7 @@
 	display:flex;
 	flex-direction: column;
 	justify-content: center;
-	background-color: var(--black);
+	background-color: var(--blue);
 	color: var(--white);
 }
 
