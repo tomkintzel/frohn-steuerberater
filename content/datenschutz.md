@@ -33,7 +33,7 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z. B. bei der Kom
 Die verantwortliche Stelle für die Datenverarbeitung auf dieser Website ist:
 Marcel Frohn
 
-Waldstraße 157
+Magazinstraße 58
 
 51147 Köln
 
