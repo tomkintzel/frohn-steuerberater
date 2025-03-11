@@ -18,7 +18,7 @@
 .hero-link {
 	margin-top: 2rem;
 	padding: .875rem 1rem;
-	background-color: var(--black);
+	background-color: var(--blue);
 	color: var(--white);
 	border-radius: 20px;
 }
