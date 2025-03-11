@@ -98,6 +98,6 @@
 
 <style>
 .logo svg{
-	max-width: 250px;
+	max-width: 200px;
 }
 </style>
